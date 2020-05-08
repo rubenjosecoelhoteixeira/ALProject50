@@ -1,0 +1,20 @@
+{
+  "id": "dbfaa3aa-c748-4716-9cae-67524859aeda",
+  "name": "50.TranslationFiles",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "application": "15.0.0.0",
+  "showMyCode": true,
+  "runtime": "4.0",
+  "features": [ "TranslationFile" ],
+  "target": "OnPrem"
+}
